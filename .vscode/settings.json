@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/angelfa/.virtualenvs/datascience_platzi/bin/python",
+    "python.dataScience.jupyterServerURI": "http://localhost:8888/?token=36fe75441e734fb1eece06ca631c834cbe99ce64c1860183"
+}
